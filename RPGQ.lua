@@ -1,4 +1,6 @@
 
+
+
 local                 
                                                                         MONSTER_POSITIONS={["갑옷 고블린"]=Vector3.new(71,   
                                                                     142.34286499023438,2500),["고블린"]=Vector3.new( -69,            
